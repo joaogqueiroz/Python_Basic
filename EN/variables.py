@@ -18,7 +18,6 @@ print('==================================================')
 print('================With conversion===================')
 print('==================================================')
 
-
 print('sum: ' + str(summ))
 print('subtraction: ' + str(subtraction))
 print('multiplication: ' + str(multiplication))
